@@ -1,3 +1,9 @@
+Biomes & Stuff
+Regions Unexplored
+Biomes We've Gone
+Nature's Spirit
+
+
 Let's Do Addon Compat
 Let's Do Api
 Let's Do Bakery Farm And Charm
@@ -6,3 +12,6 @@ Let's Do Brewery Farm and Charm
 Let's Do Vinery
 Let's Do Beach Party 
 Let's Do Farm And Charm
+//Magic 
+Irons Spellbooks
+ars Nouveau
