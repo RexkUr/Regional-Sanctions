@@ -34,7 +34,7 @@
   // This gets the percentage of your current health and implements it into your new health. Only works with scalingHealth!
   "percentScalingHealth": true,
   // The maximum value of scaling health. Useful for not giving players 300 HP when they turn into a wither.
-  "maxHealth": 40,
+  "maxHealth": 60,
   // Whether the player should have the same default amor values as the mob.
   "scalingAmor": true,
   // The maximum value of default amor. Useful for not having players who can't take damage.
@@ -46,7 +46,7 @@
   // Should player nametags render above players disguised with a shape? Note that the server is the authority for this config option.
   "showPlayerNametag": false,
   // The default fly speed for transformed players.
-  "flySpeed": 0.05,
+  "flySpeed": 0.005,
   // If true, players with the Warden shape will have a shorter view range with the darkness effect.
   "wardenIsBlinded": true,
   // If true, players with the Warden shape will blind other nearby players.
