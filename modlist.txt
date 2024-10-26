@@ -5,6 +5,7 @@ Biomes We've Gone
 Nature's Spirit
 Alex's Caves
 Larion World Generation
+Stony CLiffs Are Cool
 
 NETHER
 betternether
@@ -20,7 +21,7 @@ Mofu's Broken Constellations
 Minecells
 Bumblezone
 Twilight Forest
-The aether
+The aether (1.4.2)
 Deeper and darker 
 The abyss chapter 2 
 
