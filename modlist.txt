@@ -1,4 +1,7 @@
 Biomes & Stuff
+Sinytra Connector
+Forgified Fabric API 
+
 OVERWORLD
 Regions Unexplored
 Biomes We've Gone
@@ -45,9 +48,23 @@ Repurposed structures
 Towns And Towers
 Trial Chambers
 Towers of the wild modded
-valhesia structures
+valhesia structures + Furniture
 When dungeons arise
 Yungs Mods
+
+BOSSES?
+alex Mobs
+Aquamirae
+BE style wither
+Bosses of mass destruction
+EEEAB Mobs
+ice and Fire 
+l ender cataclysm
+marium soulslike weaponry
+mowzie Mobs
+mutant monsters
+terramity
+illage and portage(maybe)
 
 
 Let's Do Addon Compat
@@ -58,6 +75,10 @@ Let's Do Brewery Farm and Charm
 Let's Do Vinery
 Let's Do Beach Party 
 Let's Do Farm And Charm
+
+
+
+
 //Magic 
 Irons Spellbooks
 ars Nouveau
