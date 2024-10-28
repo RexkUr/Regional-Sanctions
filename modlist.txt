@@ -61,6 +61,7 @@ mowzie Mobs
 mutant monsters
 terramity
 illage and portage(maybe)
+graveyard
 
 
 Let's Do Addon Compat
