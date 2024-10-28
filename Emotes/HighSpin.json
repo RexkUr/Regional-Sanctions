@@ -1,0 +1,32 @@
+{
+    "name": "HighSpin",
+    "author": "RexkUr",
+    "description": "Funky Town",
+    "emote":{
+        "isLoop": "true",
+        "returnTick": 1,
+        "beginTick":1,
+        "endTick":100,
+        "stopTick":101,
+        "degrees":false,
+        "moves":[
+            
+            {
+                "tick":105,
+                "easing": "LINEAR",
+                "turn": -1,
+                "torso":{
+                    "yaw":6.2831854820251465
+                }
+            },
+            {
+                "tick":1,
+                "easing": "LINEAR",
+                "turn": -1,
+                "torso":{
+                    "pitch":0.7853981852531433
+                }
+            }
+        ]
+    }
+}
