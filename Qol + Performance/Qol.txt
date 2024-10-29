@@ -1,3 +1,5 @@
 https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap
 https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map
 https://www.curseforge.com/minecraft/mc-mods/emi
+https://www.curseforge.com/minecraft/mc-mods/jade
+https://www.curseforge.com/minecraft/mc-mods/retro-damage-indicators
