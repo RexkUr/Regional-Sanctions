@@ -5,8 +5,8 @@ https://www.curseforge.com/minecraft/mc-mods/jade
 https://www.curseforge.com/minecraft/mc-mods/retro-damage-indicators
 https://www.curseforge.com/minecraft/mc-mods/loot-journal
 https://www.curseforge.com/minecraft/mc-mods/loot-beams
-
-
+https://www.curseforge.com/minecraft/mc-mods/obscure-tooltips
+https://www.curseforge.com/minecraft/mc-mods/obscure-tooltips-fix
 
 
 
