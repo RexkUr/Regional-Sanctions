@@ -2,3 +2,4 @@ https://modrinth.com/mod/embeddium
 https://www.curseforge.com/minecraft/mc-mods/magnesium-extras
 https://www.curseforge.com/minecraft/mc-mods/dynamiclights-reforged
 https://www.curseforge.com/minecraft/mc-mods/radium-reforged
+https://www.curseforge.com/minecraft/mc-mods/rsls
