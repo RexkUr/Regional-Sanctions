@@ -7,9 +7,10 @@ https://www.curseforge.com/minecraft/mc-mods/loot-journal
 https://www.curseforge.com/minecraft/mc-mods/loot-beams
 https://www.curseforge.com/minecraft/mc-mods/obscure-tooltips
 https://www.curseforge.com/minecraft/mc-mods/obscure-tooltips-fix
-
-
-
+https://www.curseforge.com/minecraft/mc-mods/controlling
+https://www.curseforge.com/minecraft/mc-mods/appleskin
+https://www.curseforge.com/minecraft/mc-mods/astrocraft-mod
+https://modrinth.com/mod/particular
 
 
 
