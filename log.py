@@ -9,17 +9,11 @@ logging.basicConfig(
     format='%(asctime)s - %(message)s'
 )
 class ChangeHandler(FileSystemEventHandler):
-    def on_modified(self, event):
-        logging.info(f'Modified: {event.src_path}')
-
     def on_created(self, event):
         logging.info(f'Created: {event.src_path}')
 
     def on_deleted(self, event):
         logging.info(f'Deleted: {event.src_path}')
-
-    def on_moved(self, event):
-        logging.info(f'Moved: {event.src_path} to {event.dest_path}')
 if __name__ == "__main__":
     path = "C:\\Users\\Red RexkUr\\AppData\\Roaming\\ATLauncher\\instances\\lololol\\mods"  
     event_handler = ChangeHandler()
