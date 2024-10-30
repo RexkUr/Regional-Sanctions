@@ -3,14 +3,11 @@ import logging
 from watchdog.observers import Observer
 from watchdog.events import FileSystemEventHandler
 
-# Set up logging
 logging.basicConfig(
     filename='file_changes.log',
     level=logging.INFO,
     format='%(asctime)s - %(message)s'
 )
-
-# Create a handler class
 class ChangeHandler(FileSystemEventHandler):
     def on_modified(self, event):
         logging.info(f'Modified: {event.src_path}')
@@ -23,8 +20,6 @@ class ChangeHandler(FileSystemEventHandler):
 
     def on_moved(self, event):
         logging.info(f'Moved: {event.src_path} to {event.dest_path}')
-# Change this to your target directory
-# Set up the observer
 if __name__ == "__main__":
     path = "C:\\Users\\Red RexkUr\\AppData\\Roaming\\ATLauncher\\instances\\lololol\\mods"  
     event_handler = ChangeHandler()
