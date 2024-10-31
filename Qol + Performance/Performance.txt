@@ -1,5 +1,6 @@
 https://modrinth.com/mod/embeddium
 https://www.curseforge.com/minecraft/mc-mods/magnesium-extras
-https://www.curseforge.com/minecraft/mc-mods/dynamiclights-reforged
+https://www.curseforge.com/minecraft/mc-mods/ryoamiclights
 https://www.curseforge.com/minecraft/mc-mods/radium-reforged
 https://www.curseforge.com/minecraft/mc-mods/rsls  (1.1.0)
+https://www.curseforge.com/minecraft/mc-mods/modernfix
