@@ -45,6 +45,7 @@ https://www.curseforge.com/minecraft/mc-mods/iron-chests
 https://www.curseforge.com/minecraft/mc-mods/natures-compass
 https://www.curseforge.com/minecraft/mc-mods/explorers-compass
 https://www.curseforge.com/minecraft/mc-mods/chatanimation
+https://www.curseforge.com/minecraft/mc-mods/crawl
 
 
 
