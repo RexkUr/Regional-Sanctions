@@ -1,3 +1,6 @@
 https://www.curseforge.com/minecraft/mc-mods/supplementaries
 https://www.curseforge.com/minecraft/mc-mods/amendments
 https://www.curseforge.com/minecraft/mc-mods/connectible-chains-forge
+https://www.curseforge.com/minecraft/mc-mods/diagonal-walls
+https://www.curseforge.com/minecraft/mc-mods/diagonal-windows
+https://www.curseforge.com/minecraft/mc-mods/diagonal-fences
