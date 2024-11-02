@@ -6,3 +6,4 @@ https://www.curseforge.com/minecraft/mc-mods/rsls  (1.1.0)
 https://www.curseforge.com/minecraft/mc-mods/modernfix
 https://www.curseforge.com/minecraft/mc-mods/bocchium
 https://www.curseforge.com/minecraft/mc-mods/notenoughrecipebook
+https://www.curseforge.com/minecraft/mc-mods/lmft
