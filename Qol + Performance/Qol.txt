@@ -37,6 +37,8 @@ https://www.curseforge.com/minecraft/mc-mods/enchanting-infuser-forge
 https://www.curseforge.com/minecraft/mc-mods/emi-enchanting
 https://www.curseforge.com/minecraft/mc-mods/emi-loot
 https://modrinth.com/mod/extra-mod-integrations
+https://www.curseforge.com/minecraft/mc-mods/just-enough-archaeology
+https://www.curseforge.com/minecraft/mc-mods/jei
 
 
 
