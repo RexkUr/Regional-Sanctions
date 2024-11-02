@@ -27,7 +27,6 @@ https://www.curseforge.com/minecraft/mc-mods/screenshot-viewer
 https://www.curseforge.com/minecraft/mc-mods/lootr
 https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked
 https://www.curseforge.com/minecraft/mc-mods/etched
-https://modrinth.com/mod/infusion-table
 https://www.curseforge.com/minecraft/mc-mods/lighting-wand
 https://modrinth.com/mod/vein-mining
 https://www.curseforge.com/minecraft/mc-mods/itemzoom
