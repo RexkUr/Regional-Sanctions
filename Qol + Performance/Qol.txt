@@ -26,6 +26,7 @@ https://www.curseforge.com/minecraft/mc-mods/better-than-mending
 https://www.curseforge.com/minecraft/mc-mods/screenshot-viewer
 https://www.curseforge.com/minecraft/mc-mods/lootr
 https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked
+https://www.curseforge.com/minecraft/mc-mods/etched
 
 
 
