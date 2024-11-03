@@ -10,3 +10,4 @@ https://www.curseforge.com/minecraft/mc-mods/lmft
 https://www.curseforge.com/minecraft/mc-mods/oculus
 https://www.curseforge.com/minecraft/mc-mods/ferritecore
 https://www.curseforge.com/minecraft/mc-mods/badoptimizations
+https://www.curseforge.com/minecraft/mc-mods/redirector
