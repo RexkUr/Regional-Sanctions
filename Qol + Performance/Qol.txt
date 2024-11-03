@@ -50,6 +50,7 @@ https://www.curseforge.com/minecraft/mc-mods/better-clouds-reforged
 https://modrinth.com/mod/immersive-ui
 https://www.curseforge.com/minecraft/mc-mods/spark
 https://www.curseforge.com/minecraft/mc-mods/easy-anvils
+https://www.curseforge.com/minecraft/mc-mods/easiervillagertrading
 
 
 
