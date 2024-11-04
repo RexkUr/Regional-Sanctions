@@ -18,3 +18,4 @@ https://modrinth.com/mod/turtlematic
 https://www.curseforge.com/minecraft/mc-mods/unlimitedperipheralworks
 https://www.curseforge.com/minecraft/mc-mods/more-peripherals
 https://www.curseforge.com/minecraft/mc-mods/player-shops
+https://modrinth.com/mod/mermod
