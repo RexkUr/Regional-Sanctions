@@ -14,3 +14,4 @@ https://www.curseforge.com/minecraft/mc-mods/redirector
 https://modrinth.com/mod/entityculling'
 https://modrinth.com/mod/bbrb
 https://www.curseforge.com/minecraft/mc-mods/culllessleaves-reforged
+https://www.curseforge.com/minecraft/mc-mods/feature-recycler
