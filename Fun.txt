@@ -19,3 +19,5 @@ https://www.curseforge.com/minecraft/mc-mods/unlimitedperipheralworks
 https://www.curseforge.com/minecraft/mc-mods/more-peripherals
 https://www.curseforge.com/minecraft/mc-mods/player-shops
 https://modrinth.com/mod/mermod
+https://www.curseforge.com/minecraft/mc-mods/vampirism-become-a-vampire
+https://modrinth.com/mod/vampires-need-umbrellas
