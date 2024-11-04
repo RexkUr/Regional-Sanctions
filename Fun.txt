@@ -12,3 +12,8 @@ https://www.curseforge.com/minecraft/mc-mods/automobility
 https://www.curseforge.com/minecraft/mc-mods/exposure
 https://modrinth.com/mod/table-top-craft/gallery
 https://www.curseforge.com/minecraft/mc-mods/chaos-gadgets
+https://modrinth.com/mod/advancedperipherals
+https://modrinth.com/mod/cc-tweaked
+https://modrinth.com/mod/turtlematic
+https://www.curseforge.com/minecraft/mc-mods/unlimitedperipheralworks
+https://www.curseforge.com/minecraft/mc-mods/more-peripherals
