@@ -1,0 +1,7 @@
+
+["Plush Box"]
+	#If true, plush boxes summon particles when opened
+	"Plush Box Particles" = true
+	#if true, plush boxes make noise when opened
+	"Plush Box Opening Sound" = true
+

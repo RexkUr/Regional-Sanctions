@@ -1,0 +1,44 @@
+{
+  "settings": {
+    "WOOD": {
+      "updateDelayTicks": 600,
+      "inventoryRows": 1
+    },
+    "REDSTONE": {
+      "updateDelayTicks": 600,
+      "inventoryRows": 2
+    },
+    "IRON": {
+      "updateDelayTicks": 600,
+      "inventoryRows": 2
+    },
+    "DIAMOND": {
+      "updateDelayTicks": 600,
+      "inventoryRows": 3
+    },
+    "NETHERITE": {
+      "updateDelayTicks": 600,
+      "inventoryRows": 6
+    }
+  },
+  "trades": [
+    {
+      "input": {
+        "filter": "minecraft:carrot",
+        "count": 4
+      },
+      "output": {
+        "item": "emerald"
+      }
+    },
+    {
+      "input": {
+        "filter": "minecraft:potato",
+        "count": 4
+      },
+      "output": {
+        "item": "iron_ingot"
+      }
+    }
+  ]
+}

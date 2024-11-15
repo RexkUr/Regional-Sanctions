@@ -1,0 +1,117 @@
+
+#Configs for weapons that currently mod has to offer and can be found in survival
+[current_weapons]
+
+	[current_weapons.scourge_of_the_sands]
+		#Nature Spell Power || MULTIPLY_TOTAL || Default 0.10
+		#Range: 0.0 ~ 1.0
+		nature_spell_power = 0.1
+		#Damage || Default 13.0
+		#Range: 0.0 ~ 100.0
+		damage = 13.0
+		#Evocation Spell Power || MULTIPLY_TOTAL || Default 0.10
+		#Range: 0.0 ~ 1.0
+		evocation_spell_power = 0.1
+		#Durability || Default 2500
+		#Range: > 1
+		durability = 2500
+		#Attack Speed || Default -2.4
+		#Range: -5.0 ~ 5.0
+		attack_speed = -2.4
+
+	[current_weapons.thorns_of_oblivion]
+		#Nature Spell Power || MULTIPLY_TOTAL || Default 0.05
+		#Range: 0.0 ~ 1.0
+		nature_spell_power = 0.15
+		#Damage || Default 13.0
+		#Range: 0.0 ~ 100.0
+		damage = 13.0
+		#Ender Spell Power || MULTIPLY_TOTAL || Default 0.05
+		#Range: 0.0 ~ 1.0
+		ender_spell_power = 0.15
+		#Durability || Default 2500
+		#Range: > 1
+		durability = 2500
+		#Attack Speed || Default -2.4
+		#Range: -5.0 ~ 5.0
+		attack_speed = -2.4
+
+	[current_weapons.flames_of_eldritch]
+		#Damage || Default 17.0
+		#Range: 0.0 ~ 100.0
+		damage = 17.0
+		#Fire Spell Power || MULTIPLY_TOTAL || Default 0.20
+		#Range: 0.0 ~ 1.0
+		fire_spell_power = 0.2
+		#Eldritch Spell Power || MULTIPLY_TOTAL || Default 0.05
+		#Range: 0.0 ~ 1.0
+		eldritch_spell_power = 0.05
+		#Durability || Default 3000
+		#Range: > 1
+		durability = 3000
+		#Attack Speed || Default -2.6
+		#Range: -5.0 ~ 5.0
+		attack_speed = -2.6
+
+	[current_weapons.harbingers_wrath]
+		#Damage || Default 17.0
+		#Range: 0.0 ~ 100.0
+		damage = 17.0
+		#Durability || Default 2500
+		#Range: > 1
+		durability = 2500
+		#Attack Speed || Default -2.8
+		#Range: -5.0 ~ 5.0
+		attack_speed = -2.8
+		#Lightning Spell Power || MULTIPLY_TOTAL || Default 0.20
+		#Range: 0.0 ~ 1.0
+		lightning_spell_power = 0.2
+
+	[current_weapons.abyssal_tidecaller]
+		#Damage || Default 21.0
+		#Range: 0.0 ~ 100.0
+		damage = 21.0
+		#Ender Spell Power || MULTIPLY_TOTAL || Default 0.10
+		#Range: 0.0 ~ 1.0
+		ender_spell_power = 0.1
+		#Eldritch Spell Power || MULTIPLY_TOTAL || Default 0.15
+		#Range: 0.0 ~ 1.0
+		eldritch_spell_power = 0.15
+		#Durability || Default 2500
+		#Range: > 1
+		durability = 2500
+		#Attack Speed || Default -3.0
+		#Range: -5.0 ~ 5.0
+		attack_speed = -3.0
+
+	[current_weapons.cursed_wraithblade]
+		#Damage || Default 15.0
+		#Range: 0.0 ~ 100.0
+		damage = 17.0
+		#Ice Spell Power || MULTIPLY_BASE || Default 0.2
+		#Range: 0.0 ~ 1.0
+		ice_spell_power = 0.2
+		#Eldritch Spell Power || MULTIPLY_BASE || Default 0.05
+		#Range: 0.0 ~ 1.0
+		eldritch_spell_power = 0.05
+		#Durability || Default 3000
+		#Range: > 1
+		durability = 3000
+		#Attack Speed || Default -2.8
+		#Range: -5.0 ~ 5.0
+		attack_speed = -2.8
+
+	[current_weapons.voidstrike_reaper]
+		#Damage || Default 19.0
+		#Range: 0.0 ~ 100.0
+		damage = 19.0
+		#Ender Spell Power || MULTIPLY_BASE || Default 0.10
+		#Range: 0.0 ~ 1.0
+		ender_spell_power = 0.2
+		#Durability || Default 2500
+		#Range: > 1
+		durability = 2500
+		#Attack Speed || Default -3.0
+		#Range: -5.0 ~ 5.0
+		attack_speed = -3.0
+

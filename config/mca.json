@@ -202,18 +202,18 @@
     "minecraft:ancient_city"
   ],
   "destinyLocationsToTranslationMap": {
-    "minecraft:shipwreck_beached": "destiny.story.sailing",
-    "default": "destiny.story.travelling"
+    "default": "destiny.story.travelling",
+    "minecraft:shipwreck_beached": "destiny.story.sailing"
   },
   "professionConversionsMap": {},
   "shaderLocationsMap": {
-    "sirben": "mca:shaders/post/sirben.json",
-    "color_blind": "minecraft:shaders/post/desaturate.json"
+    "color_blind": "minecraft:shaders/post/desaturate.json",
+    "sirben": "mca:shaders/post/sirben.json"
   },
   "playerRendererBlacklist": {
-    "epicfight": "all",
-    "firstpersonmod": "arms",
     "firstperson": "arms",
+    "firstpersonmod": "arms",
+    "epicfight": "all",
     "morph": "arms"
   },
   "enabledTraits": {

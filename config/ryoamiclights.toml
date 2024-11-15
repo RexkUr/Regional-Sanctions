@@ -1,0 +1,6 @@
+
+[light_sources]
+	block_entities = true
+	entities = true
+	self = true
+
