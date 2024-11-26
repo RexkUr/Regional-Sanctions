@@ -28,7 +28,7 @@ pauseMenuButtonOffset = 4
 #The path to the folder containing the screenshots images that will be displayed in the screen.
 screenshotsFolder = "C:\\Users\\Red RexkUr\\AppData\\Roaming\\ATLauncher\\instances\\lololol\\screenshots"
 #If enabled, clicking on the link printed in the chat when taking a screenshot will open it directly in the screenshot manager.
-redirectScreenshotChatLinks = false
+redirectScreenshotChatLinks = true
 #The visibility state of the screenshots names.
 #Allowed Values: VISIBLE, SHOW_ON_HOVER, HIDDEN
 screenshotElementTextVisibility = "VISIBLE"

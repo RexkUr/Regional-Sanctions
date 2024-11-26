@@ -1,0 +1,11 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "weapons"
+	group: "77915E118E97DA0C"
+	id: "1387D157A55D3C6B"
+	order_index: 2
+	quest_links: [ ]
+	quests: [ ]
+	title: "weapons"
+}

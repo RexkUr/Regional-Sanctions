@@ -5,7 +5,7 @@
 
 ["Culling Map update delay"]
 	#Range: 0 ~ 10
-	"delay frame" = 1
+	"delay frame" = 2
 
 ["Cull entity"]
 	enabled = true

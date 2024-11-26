@@ -100,7 +100,7 @@
 	#Range: > 1
 	stationaryUniversalScanMaxCostRadius = 24
 	#Range: 0.1 ~ 1.7976931348623157E308
-	stationaryUniversalScanExtraBlockCost = 0.0
+	stationaryUniversalScanExtraBlockCost = 0.1
 	#Range: > 0
 	inspectChunkCooldown = 10000
 	#Range: > 0

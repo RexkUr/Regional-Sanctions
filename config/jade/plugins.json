@@ -3,6 +3,7 @@
     "item_storage.show_name_amount": 5,
     "furnace": true,
     "harvest_tool.show_unbreakable": false,
+    "travelerscompass": true,
     "animal_owner": true,
     "harvest_tool.effective_tool": true,
     "item_storage.normal_amount": 9,
@@ -106,6 +107,9 @@
   "pipez": {
     "pipe": true
   },
+  "autoleveling": {
+    "level": true
+  },
   "touhou_little_maid": {
     "maid": true,
     "shrine_lamp": true
@@ -118,19 +122,10 @@
   "twilightforest": {
     "quest_ram_wool": true
   },
-  "untitledduckmod": {
-    "lay_egg": true
-  },
   "supplementaries": {
     "hat_stand": true
   },
   "waystones": {
     "waystone": true
-  },
-  "securitycraft": {
-    "showowner": true,
-    "showmodules": true,
-    "info": true,
-    "showcustomname": true
   }
 }

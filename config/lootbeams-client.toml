@@ -3,15 +3,15 @@
 ["Loot Beams"]
 	#If beams should be colored the same as the Items name (excludes name colors from rarity). This has priority over render_rarity_color.
 	render_name_color = true
-	#If the rarity should be rendered under the nametag.
-	render_rarity = true
 	#If beams should be colored the same as the Items rarity.
 	render_rarity_color = true
 	#How close the player has to be to see the beam. (note: in vanill ItemEntities stop rendering at 24 blocks.)
 	#Range: 0.0 ~ 1024.0
-	render_distance = 48.0
+	render_distance = 24.0
 	#Overrides an item's beam color with hex color. Must follow the specific format: (registryname=hexcolor) Or (#tagname=hexcolor). Example: "minecraft:stone=0xFFFFFF". This also accepts modids.
 	color_overrides = []
+	#If the rarity should be rendered under the nametag.
+	render_rarity = true
 
 	#Beam Configuration
 	["Loot Beams".Beam]
@@ -57,19 +57,16 @@
 		particle_size = 0.25
 		#The speed of the particles.
 		#Range: 1.0E-5 ~ 10.0
-		particle_speed = 0.2
+		particle_speed = 0.025
 		#The radius of the particles.
 		#Range: 1.0E-5 ~ 10.0
-		particle_radius = 0.1
-		#The intensity of the randomness of the particles.
-		#Range: 0.0 ~ 1.0
-		randomness_intensity = 0.05
+		particle_radius = 0.25
 		#The amount of particles to spawn per second.
 		#Range: 1.0 ~ 20.0
-		particle_count = 15.0
+		particle_count = 19.0
 		#The lifetime of the particles in ticks.
 		#Range: 1 ~ 100
-		particle_lifetime = 15
+		particle_lifetime = 10
 		#If particles should only appear on rare items.
 		particle_rare_only = true
 		#The direction of the particles on the X axis.
@@ -85,42 +82,41 @@
 		spin_around_beam = true
 		#If the particles should leave a trail.
 		trails = true
-		#The chance of a particle leaving a trail.
-		#Range: 0.0 ~ 1.0
-		trail_chance = 0.5
-		#If the particles with a trail should be invisible.
-		trail_particles_invisible = true
 		#The width of the trail.
 		#Range: 1.0E-5 ~ 10.0
-		trail_width = 0.2
+		trail_width = 0.4
 		#The length of the trail.
 		#Range: 1 ~ 200
-		trail_length = 30
+		trail_length = 16
 		#The frequency of the trail. The maximum value this should be is the length. The lower the frequency, the smoother the trail.
 		#Range: 1 ~ 200
 		trail_frequency = 1
+		#The intensity of the randomness of the particles.
+		#Range: 0.0 ~ 1.0
+		randomness_intensity = 0.25
+		#The chance of a particle leaving a trail.
+		#Range: 0.0 ~ 1.0
+		trail_chance = 0.3
+		#If the particles with a trail should be invisible.
+		trail_particles_invisible = false
 
 	#Item Config
 	["Loot Beams".Items]
-		#If items should glow.
-		items_glow = false
 		#If all Items Loot Beams should be rendered. Has priority over only_equipment and only_rare.
-		all_items = false
+		all_items = true
 		#If Loot Beams should only be rendered on items with rarity.
-		only_rare = true
+		only_rare = false
 		#If Loot Beams should only be rendered on equipment. (Equipment includes: Swords, Tools, Armor, Shields, Bows, Crossbows, Tridents, Arrows, and Fishing Rods)
-		only_equipment = true
+		only_equipment = false
 		#Registry names of items that Loot Beams should render on. Example: "minecraft:stone", "minecraft:iron_ingot", You can also specify modids for a whole mod's items.
 		whitelist = []
 		#Registry names of items that Loot Beams should NOT render on. This has priority over everything. You can also specify modids for a whole mod's items.
 		blacklist = []
+		#If items should glow.
+		items_glow = false
 
 	#Item nametags
 	["Loot Beams".Nametags]
-		#If vanilla tooltips should be rendered on items in world.
-		advanced_tooltips = true
-		#If tooltips should be rendered in world.
-		worldspace_tooltips = true
 		#Render nametags as bordered. Set to false for flat nametag with background.
 		borders = true
 		#If Item nametags should be rendered.
@@ -154,6 +150,10 @@
 		vanilla_rarities = true
 		#If the player should be crouching to see extended advanced tooltips.
 		screen_tooltips_require_crouch = true
+		#If vanilla tooltips should be rendered on items in world.
+		advanced_tooltips = false
+		#If tooltips should be rendered in world.
+		worldspace_tooltips = true
 		#If the name and rarity should be combined into one tooltip.
 		combine_name_and_rarity = false
 

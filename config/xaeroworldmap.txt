@@ -42,7 +42,7 @@ legibleCaveMaps:false
 displayCaveModeStart:true
 caveModeToggleTimer:1000
 defaultCaveModeType:1
-biomeBlending:true
+biomeBlending:false
 trackedPlayers:true
 multipleImagesExport:false
 nightExport:false

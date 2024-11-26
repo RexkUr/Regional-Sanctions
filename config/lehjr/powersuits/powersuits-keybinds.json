@@ -1,3 +1,178 @@
 {
-  "formatVersion": 2
+  "formatVersion": 2,
+  "keybinding.powersuits.fortune": {
+    "registryName": "powersuits:fortune",
+    "showOnHud": false,
+    "defaultKey": -1
+  },
+  "keybinding.powersuits.vein_miner": {
+    "registryName": "powersuits:vein_miner",
+    "showOnHud": false,
+    "defaultKey": -1
+  },
+  "keybinding.powersuits.jet_boots": {
+    "registryName": "powersuits:jet_boots",
+    "showOnHud": false,
+    "defaultKey": -1
+  },
+  "keybinding.powersuits.swim_assist": {
+    "registryName": "powersuits:swim_assist",
+    "showOnHud": false,
+    "defaultKey": -1
+  },
+  "keybinding.powersuits.climb_assist": {
+    "registryName": "powersuits:climb_assist",
+    "showOnHud": false,
+    "defaultKey": -1
+  },
+  "keybinding.powersuits.sprint_assist": {
+    "registryName": "powersuits:sprint_assist",
+    "showOnHud": false,
+    "defaultKey": -1
+  },
+  "keybinding.powersuits.flight_control": {
+    "registryName": "powersuits:flight_control",
+    "showOnHud": false,
+    "defaultKey": -1
+  },
+  "keybinding.powersuits.shock_absorber": {
+    "registryName": "powersuits:shock_absorber",
+    "showOnHud": false,
+    "defaultKey": -1
+  },
+  "keybinding.minecraft.recovery_compass": {
+    "registryName": "minecraft:recovery_compass",
+    "showOnHud": false,
+    "defaultKey": -1
+  },
+  "keybinding.powersuits.energy_shield": {
+    "registryName": "powersuits:energy_shield",
+    "showOnHud": false,
+    "defaultKey": -1
+  },
+  "keybinding.powersuits.aqua_affinity": {
+    "registryName": "powersuits:aqua_affinity",
+    "showOnHud": false,
+    "defaultKey": -1
+  },
+  "keybinding.powersuits.water_electrolyzer": {
+    "registryName": "powersuits:water_electrolyzer",
+    "showOnHud": false,
+    "defaultKey": -1
+  },
+  "keybinding.powersuits.cooling_system": {
+    "registryName": "powersuits:cooling_system",
+    "showOnHud": false,
+    "defaultKey": -1
+  },
+  "keybinding.powersuits.generator_kinetic": {
+    "registryName": "powersuits:generator_kinetic",
+    "showOnHud": false,
+    "defaultKey": -1
+  },
+  "keybinding.powersuits.invisibility": {
+    "registryName": "powersuits:invisibility",
+    "showOnHud": false,
+    "defaultKey": -1
+  },
+  "keybinding.powersuits.magnet": {
+    "registryName": "powersuits:magnet",
+    "showOnHud": false,
+    "defaultKey": -1
+  },
+  "keybinding.powersuits.diamond_pick_upgrade": {
+    "registryName": "powersuits:diamond_pick_upgrade",
+    "showOnHud": false,
+    "defaultKey": -1
+  },
+  "keybinding.powersuits.jump_assist": {
+    "registryName": "powersuits:jump_assist",
+    "showOnHud": false,
+    "defaultKey": -1
+  },
+  "keybinding.powersuits.glider": {
+    "registryName": "powersuits:glider",
+    "showOnHud": false,
+    "defaultKey": -1
+  },
+  "keybinding.minecraft.compass": {
+    "registryName": "minecraft:compass",
+    "showOnHud": false,
+    "defaultKey": -1
+  },
+  "keybinding.powersuits.parachute": {
+    "registryName": "powersuits:parachute",
+    "showOnHud": false,
+    "defaultKey": -1
+  },
+  "keybinding.powersuits.night_vision": {
+    "registryName": "powersuits:night_vision",
+    "showOnHud": false,
+    "defaultKey": -1
+  },
+  "keybinding.powersuits.generator_solar": {
+    "registryName": "powersuits:generator_solar",
+    "showOnHud": false,
+    "defaultKey": -1
+  },
+  "keybinding.powersuits.auto_feeder": {
+    "registryName": "powersuits:auto_feeder",
+    "showOnHud": false,
+    "defaultKey": -1
+  },
+  "keybinding.powersuits.selective_miner": {
+    "registryName": "powersuits:selective_miner",
+    "showOnHud": false,
+    "defaultKey": -1
+  },
+  "keybinding.powersuits.generator_solar_adv": {
+    "registryName": "powersuits:generator_solar_adv",
+    "showOnHud": false,
+    "defaultKey": -1
+  },
+  "keybinding.powersuits.transparent_armor": {
+    "registryName": "powersuits:transparent_armor",
+    "showOnHud": false,
+    "defaultKey": -1
+  },
+  "keybinding.powersuits.jetpack": {
+    "registryName": "powersuits:jetpack",
+    "showOnHud": false,
+    "defaultKey": -1
+  },
+  "keybinding.minecraft.clock": {
+    "registryName": "minecraft:clock",
+    "showOnHud": false,
+    "defaultKey": -1
+  },
+  "keybinding.powersuits.binoculars": {
+    "registryName": "powersuits:binoculars",
+    "showOnHud": false,
+    "defaultKey": -1
+  },
+  "keybinding.powersuits.tunnel_bore": {
+    "registryName": "powersuits:tunnel_bore",
+    "showOnHud": false,
+    "defaultKey": -1
+  },
+  "keybinding.powersuits.fluid_tank": {
+    "registryName": "powersuits:fluid_tank",
+    "showOnHud": false,
+    "defaultKey": -1
+  },
+  "keybinding.powersuits.generator_thermal": {
+    "registryName": "powersuits:generator_thermal",
+    "showOnHud": false,
+    "defaultKey": -1
+  },
+  "keybinding.powersuits.mob_repulsor": {
+    "registryName": "powersuits:mob_repulsor",
+    "showOnHud": false,
+    "defaultKey": -1
+  },
+  "keybinding.powersuits.silk_touch": {
+    "registryName": "powersuits:silk_touch",
+    "showOnHud": false,
+    "defaultKey": -1
+  }
 }

@@ -1,0 +1,54 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "RexkUr",
+      "uniqueId": "f47aef1c-7797-4cd4-b2e8-d065f198f524"
+    },
+    "time": 1732526351562,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/pB5IPPW11H"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "RexkUr",
+      "uniqueId": "f47aef1c-7797-4cd4-b2e8-d065f198f524"
+    },
+    "time": 1732526135413,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/kC9dU6B2FM"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "RexkUr",
+      "uniqueId": "f47aef1c-7797-4cd4-b2e8-d065f198f524"
+    },
+    "time": 1732264620731,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/0DGReoEP8P"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "RexkUr",
+      "uniqueId": "f47aef1c-7797-4cd4-b2e8-d065f198f524"
+    },
+    "time": 1732256813098,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/NHffm9Uc8B"
+    }
+  }
+]

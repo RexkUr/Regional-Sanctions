@@ -88,6 +88,17 @@
         "value": 100
       }
     },
+    "tetra:ability_damage": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 2048,
+        "value": 2048
+      }
+    },
     "cold_sweat:heat_resistance": {
       "enabled": false,
       "min": {
@@ -209,6 +220,17 @@
         "value": 100
       }
     },
+    "miapi:generic.projectile_accuracy": {
+      "enabled": false,
+      "min": {
+        "default": -1024,
+        "value": -1024
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
     "additional_attributes:innate_spell/traveloptics/eternal_sentinel": {
       "enabled": false,
       "min": {
@@ -221,6 +243,17 @@
       }
     },
     "additional_attributes:fishing_luck": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
+    "miapi:generic.armor_crushing": {
       "enabled": false,
       "min": {
         "default": 0,
@@ -319,6 +352,28 @@
         "value": 100
       }
     },
+    "miapi:generic.projectile_crit_multiplier": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
+    "eeeabsmobs:crit_chance": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 10,
+        "value": 10
+      }
+    },
     "additional_attributes:innate_spell/irons_spellbooks/firecracker": {
       "enabled": false,
       "min": {
@@ -328,6 +383,17 @@
       "max": {
         "default": 100,
         "value": 100
+      }
+    },
+    "scguns:bullet_damage_multiplier": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1000,
+        "value": 1000
       }
     },
     "additional_attributes:spell_type_blessing_of_life": {
@@ -616,6 +682,17 @@
         "value": 1000
       }
     },
+    "scguns:spread_multiplier": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1000,
+        "value": 1000
+      }
+    },
     "additional_attributes:innate_spell/traveloptics/primal_pack": {
       "enabled": false,
       "min": {
@@ -625,6 +702,28 @@
       "max": {
         "default": 100,
         "value": 100
+      }
+    },
+    "miapi:generic.elytra_rocket_efficiency": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
+    "miapi:generic.stun_max_health": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
       }
     },
     "additional_attributes:spell_type_wisp": {
@@ -759,6 +858,17 @@
         "value": 24
       }
     },
+    "tetra:draw_strength": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 2048,
+        "value": 2048
+      }
+    },
     "additionalentityattributes:player.water_visibility": {
       "enabled": false,
       "min": {
@@ -790,6 +900,17 @@
       "max": {
         "default": 200,
         "value": 200
+      }
+    },
+    "miapi:generic.mining_speed.hoe": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
       }
     },
     "additional_attributes:innate_spell/irons_spellbooks/magma_bomb": {
@@ -1001,6 +1122,17 @@
         "value": 100
       }
     },
+    "miapi:generic.crit_damage": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
     "gunsmithlib:vert_recoil": {
       "enabled": false,
       "min": {
@@ -1133,17 +1265,6 @@
         "value": 1
       }
     },
-    "apotheosis_ascended:spread_reduction": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1,
-        "value": 1
-      }
-    },
     "additional_attributes:spell_type_wither_skull": {
       "enabled": false,
       "min": {
@@ -1153,6 +1274,17 @@
       "max": {
         "default": 100,
         "value": 100
+      }
+    },
+    "apotheosis_ascended:spread_reduction": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1,
+        "value": 1
       }
     },
     "additional_attributes:innate_spell/irons_spellbooks/ascension": {
@@ -1386,6 +1518,17 @@
         "value": 100
       }
     },
+    "scguns:additional_bullet_damage": {
+      "enabled": false,
+      "min": {
+        "default": -1000,
+        "value": -1000
+      },
+      "max": {
+        "default": 10000,
+        "value": 10000
+      }
+    },
     "additional_attributes:spell/traveloptics/vigor_siphon": {
       "enabled": false,
       "min": {
@@ -1395,6 +1538,17 @@
       "max": {
         "default": 100,
         "value": 100
+      }
+    },
+    "feathers:feathers.feather_regen": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
       }
     },
     "additional_attributes:spell/traveloptics/earthshatter": {
@@ -1606,6 +1760,17 @@
         "value": 100
       }
     },
+    "feathers:feathers.max_feathers": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
     "cold_sweat:world_temperature": {
       "enabled": false,
       "min": {
@@ -1648,6 +1813,17 @@
       "max": {
         "default": 2048,
         "value": 2048
+      }
+    },
+    "iter_rpg:mana_consumption": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 10000000,
+        "value": 10000000
       }
     },
     "additionalentityattributes:generic.jump_height": {
@@ -1705,6 +1881,17 @@
         "value": 1
       }
     },
+    "miapi:generic.elytra_turn_efficiency": {
+      "enabled": false,
+      "min": {
+        "default": -1024,
+        "value": -1024
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
     "irons_spellbooks:spell_resist": {
       "enabled": false,
       "min": {
@@ -1721,6 +1908,17 @@
       "min": {
         "default": 0,
         "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "miapi:generic.elytra_glide_efficiency": {
+      "enabled": false,
+      "min": {
+        "default": -1024,
+        "value": -1024
       },
       "max": {
         "default": 100,
@@ -1782,6 +1980,17 @@
         "value": 1
       }
     },
+    "miapi:generic.crit_chance": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
     "additional_attributes:innate_spell/irons_spellbooks/echoing_strikes": {
       "enabled": false,
       "min": {
@@ -1820,6 +2029,17 @@
       "min": {
         "default": 0,
         "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "scguns:projectile_speed": {
+      "enabled": false,
+      "min": {
+        "default": 0.01,
+        "value": 0.01
       },
       "max": {
         "default": 100,
@@ -1925,6 +2145,17 @@
         "value": 100
       }
     },
+    "iter_rpg:spellcasting_power": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 10000000,
+        "value": 10000000
+      }
+    },
     "additional_attributes:spell/traveloptics/shadowed_miasma": {
       "enabled": false,
       "min": {
@@ -2024,6 +2255,17 @@
         "value": 100
       }
     },
+    "iter_rpg:base_mana_regeneration": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 10000,
+        "value": 10000
+      }
+    },
     "additional_attributes:innate_spell/irons_spellbooks/wololo": {
       "enabled": false,
       "min": {
@@ -2044,6 +2286,28 @@
       "max": {
         "default": 100,
         "value": 100
+      }
+    },
+    "tetra:draw_speed": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 2048,
+        "value": 2048
+      }
+    },
+    "tetra:ability_cooldown": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 2048,
+        "value": 2048
       }
     },
     "additional_attributes:innate_spell/irons_spellbooks/evasion": {
@@ -2077,6 +2341,17 @@
       "max": {
         "default": 100,
         "value": 100
+      }
+    },
+    "scguns:reload_speed": {
+      "enabled": false,
+      "min": {
+        "default": 0.01,
+        "value": 0.01
+      },
+      "max": {
+        "default": 1000,
+        "value": 1000
       }
     },
     "additional_attributes:spell/traveloptics/orbital_void": {
@@ -2277,6 +2552,17 @@
         "value": 100
       }
     },
+    "miapi:generic.magic_damage": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
     "additional_attributes:spell_type_flaming_strike": {
       "enabled": false,
       "min": {
@@ -2319,6 +2605,17 @@
       "max": {
         "default": 100,
         "value": 100
+      }
+    },
+    "miapi:generic.back_stab": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
       }
     },
     "additional_attributes:innate_spell/traveloptics/meteor_storm": {
@@ -2418,6 +2715,17 @@
       "max": {
         "default": 100,
         "value": 100
+      }
+    },
+    "miapi:generic.mining_speed.pickaxe": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
       }
     },
     "additional_attributes:spell_type_lightning_bolt": {
@@ -2585,6 +2893,17 @@
         "value": 10000
       }
     },
+    "miapi:generic.resistance": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
     "additionalentityattributes:player.bonus_loot_count_rolls": {
       "enabled": false,
       "min": {
@@ -2706,6 +3025,17 @@
         "value": 100
       }
     },
+    "miapi:generic.mining_speed.axe": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
     "additional_attributes:innate_school/irons_spellbooks/nature": {
       "enabled": false,
       "min": {
@@ -2803,6 +3133,28 @@
       "max": {
         "default": 10,
         "value": 10
+      }
+    },
+    "autoleveling:monster.projectile_damage_bonus": {
+      "enabled": false,
+      "min": {
+        "default": 1,
+        "value": 1
+      },
+      "max": {
+        "default": 1000,
+        "value": 1000
+      }
+    },
+    "miapi:generic.bow_draw_time": {
+      "enabled": false,
+      "min": {
+        "default": -1024,
+        "value": -1024
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
       }
     },
     "additional_attributes:innate_spell/irons_spellbooks/chain_creeper": {
@@ -3102,6 +3454,17 @@
         "value": 100
       }
     },
+    "miapi:generic.projectile_piercing": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
     "estrogen:fall_damage_resistance": {
       "enabled": false,
       "min": {
@@ -3133,6 +3496,17 @@
       "max": {
         "default": 100,
         "value": 100
+      }
+    },
+    "miapi:generic.shield_break": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
       }
     },
     "additional_attributes:spell_type_poison_breath": {
@@ -3487,6 +3861,17 @@
         "value": 10
       }
     },
+    "miapi:generic.stun_damage": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
     "additional_attributes:spell/traveloptics/primordial_steed": {
       "enabled": false,
       "min": {
@@ -3696,6 +4081,17 @@
         "value": 100
       }
     },
+    "miapi:generic.projectile_damage": {
+      "enabled": false,
+      "min": {
+        "default": -1024,
+        "value": -1024
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
     "estrogen:boob_growing_start_time": {
       "enabled": false,
       "min": {
@@ -3718,17 +4114,6 @@
         "value": 100
       }
     },
-    "estrogen:show_boobs": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1,
-        "value": 1
-      }
-    },
     "additional_attributes:spell_type_scorch": {
       "enabled": false,
       "min": {
@@ -3738,6 +4123,17 @@
       "max": {
         "default": 100,
         "value": 100
+      }
+    },
+    "estrogen:show_boobs": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1,
+        "value": 1
       }
     },
     "minecraft:zombie.spawn_reinforcements": {
@@ -3795,6 +4191,17 @@
         "value": 100
       }
     },
+    "iter_rpg:spell_cooldown": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 10000000,
+        "value": 10000000
+      }
+    },
     "irons_spellbooks:evocation_magic_resist": {
       "enabled": false,
       "min": {
@@ -3826,6 +4233,17 @@
       "max": {
         "default": 100,
         "value": 100
+      }
+    },
+    "miapi:generic.player_item_use_speed": {
+      "enabled": false,
+      "min": {
+        "default": -1,
+        "value": -1
+      },
+      "max": {
+        "default": 0,
+        "value": 0
       }
     },
     "minecraft:generic.attack_speed": {
@@ -3925,6 +4343,17 @@
       "max": {
         "default": 100,
         "value": 100
+      }
+    },
+    "crimsonsteves_mutant_mobs:action_state": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
       }
     },
     "additional_attributes:innate_spell/traveloptics/orbital_void": {
@@ -4147,6 +4576,17 @@
         "value": 100
       }
     },
+    "miapi:generic.projectile_speed": {
+      "enabled": false,
+      "min": {
+        "default": -1024,
+        "value": -1024
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
     "galosphere:illager_resistance": {
       "enabled": false,
       "min": {
@@ -4156,6 +4596,17 @@
       "max": {
         "default": 10,
         "value": 10
+      }
+    },
+    "miapi:generic.projectile_armor": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
       }
     },
     "additional_attributes:spell_type_echoing_strikes": {
@@ -4189,6 +4640,17 @@
       "max": {
         "default": 100,
         "value": 100
+      }
+    },
+    "miapi:generic.shielding_armor": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
       }
     },
     "additional_attributes:innate_spell/irons_spellbooks/poison_arrow": {
@@ -4279,6 +4741,17 @@
         "value": 100
       }
     },
+    "miapi:generic.mining_speed.shovel": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
     "attributeslib:fire_damage": {
       "enabled": false,
       "min": {
@@ -4367,6 +4840,17 @@
         "value": 100
       }
     },
+    "iter_rpg:base_mana_capacity": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 10000,
+        "value": 10000
+      }
+    },
     "additional_attributes:innate_spell/irons_spellbooks/fang_strike": {
       "enabled": false,
       "min": {
@@ -4411,17 +4895,6 @@
         "value": 1
       }
     },
-    "gunsmithlib:bullet_speed": {
-      "enabled": false,
-      "min": {
-        "default": -Infinity,
-        "value": -Infinity
-      },
-      "max": {
-        "default": Infinity,
-        "value": Infinity
-      }
-    },
     "additional_attributes:spell/traveloptics/cursed_revenants": {
       "enabled": false,
       "min": {
@@ -4431,6 +4904,17 @@
       "max": {
         "default": 100,
         "value": 100
+      }
+    },
+    "gunsmithlib:bullet_speed": {
+      "enabled": false,
+      "min": {
+        "default": -Infinity,
+        "value": -Infinity
+      },
+      "max": {
+        "default": Infinity,
+        "value": Infinity
       }
     },
     "additional_attributes:spell/traveloptics/reversal": {
@@ -4554,6 +5038,17 @@
         "value": 100
       }
     },
+    "autoleveling:monster.explosion_damage_bonus": {
+      "enabled": false,
+      "min": {
+        "default": 1,
+        "value": 1
+      },
+      "max": {
+        "default": 1000,
+        "value": 1000
+      }
+    },
     "additional_attributes:innate_spell/irons_spellbooks/heartstop": {
       "enabled": false,
       "min": {
@@ -4673,6 +5168,17 @@
       "max": {
         "default": 100,
         "value": 100
+      }
+    },
+    "random_crits:critchance": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1,
+        "value": 1
       }
     },
     "additional_attributes:innate_spell/irons_spellbooks/thunderstorm": {

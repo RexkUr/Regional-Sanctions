@@ -1,0 +1,184 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "armor"
+	group: "77915E118E97DA0C"
+	icon: {
+		Count: 1
+		ForgeCaps: {
+			"celestisynth:celestisynthitemstackcapabilities": {
+				cs.aquaSkin: 0
+			}
+			"cold_sweat:item_insulation": {
+				Insulation: [ ]
+			}
+		}
+		id: "minecraft:diamond_chestplate"
+		tag: {
+			Damage: 0
+		}
+	}
+	id: "003D27BAF1BD1260"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			description: [
+				"As you kill bosses you will unlock more and more materials to craft stronger weapons/advance your gear "
+				""
+				""
+				""
+				"Armor Branching:"
+				"There are three different armor types that offer different buffs."
+				""
+				"Magician: Buffs spells and mana amount from ars nouveau and Irons spells and spellbooks"
+				""
+				"Swordsman: Buffs damage output when using melee type weapons "
+				""
+				"Gunslinger: Buffs damage output when using guns. "
+			]
+			id: "6CF9AE7AB30AC820"
+			tasks: [{
+				id: "5F9AC229AAB47006"
+				title: "Armor Branching"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6CF9AE7AB30AC820"]
+			id: "0C815DAD932B442D"
+			tasks: [{
+				id: "730C2746A49D5A6D"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+						"cold_sweat:item_insulation": {
+							Insulation: [ ]
+						}
+					}
+					id: "minecraft:diamond_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Diamond Armor Set"
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3CC4EB8F5145A026"]
+			id: "12E442D121606ED5"
+			tasks: [{
+				id: "60EBD2A558E35195"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+						"cold_sweat:item_insulation": {
+							Insulation: [ ]
+						}
+					}
+					id: "galosphere:sterling_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Magician Path"
+			x: 4.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["3CC4EB8F5145A026"]
+			id: "5C59DF6E13AEE5B0"
+			tasks: [{
+				id: "38CD205851916E86"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+						"cold_sweat:item_insulation": {
+							Insulation: [ ]
+						}
+					}
+					id: "deeperdarker:warden_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Swordsman Path"
+			x: 4.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3CC4EB8F5145A026"]
+			id: "3B408D90527FA4FC"
+			tasks: [{
+				id: "2FE09CC43A94C1FE"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+						"cold_sweat:item_insulation": {
+							Insulation: [ ]
+						}
+					}
+					id: "mythicmetals:metallurgium_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Gunslinger Path"
+			x: 4.5d
+			y: 1.5d
+		}
+		{
+			dependencies: [
+				"6CF9AE7AB30AC820"
+				"0C815DAD932B442D"
+			]
+			id: "3CC4EB8F5145A026"
+			tasks: [{
+				id: "7EC457BAE8EA33C4"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+						"cold_sweat:item_insulation": {
+							Insulation: [ ]
+						}
+					}
+					id: "minecraft:netherite_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Netherite Armor Set"
+			x: 3.0d
+			y: 0.0d
+		}
+	]
+	title: "Armor"
+}

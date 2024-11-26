@@ -63,8 +63,17 @@
 		#Range: 50.0 ~ 1000.0
 		max_mana = 300.0
 
-#Extra Spell Configs
+#This config houses all the extra spell and spell mechanics
+#If you're looking to change the spell stats instead or disable/enable spells... Go to iron's spellbooks server config file
 [spells]
+
+	[spells.summon]
+		#Limit the number of active 'Group' summon spells to one at a time || Default: true
+		limit_group_summon = true
+		#Limit the number of active 'Miniboss' summon spells to one at a time || Default: true
+		limit_miniboss_summon = true
+		#Limit the number of active 'Kaiju' summon spells to one at a time || Default: true
+		limit_kaiju_summon = true
 
 	[spells.aerial_collapse]
 		#Should bosses take less percent-based damage from Aerial Collapse? || less than 1.0 will make them take less damage || Default 1.0
